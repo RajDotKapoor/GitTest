@@ -3,8 +3,8 @@
  *
  *
  *
- * Adding comment while the file is staged but not commited just yet
- *
+ * Commit to .git repo complete
+ * 
  *
  *
  *******************************************************************************
