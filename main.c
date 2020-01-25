@@ -3,7 +3,7 @@
  *
  *
  *
- * Commit to .git repo complete
+ * Staging for 3rd commit
  * 
  *
  *
